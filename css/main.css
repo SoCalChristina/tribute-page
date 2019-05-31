@@ -1,0 +1,62 @@
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.5;
+  color: #2f4f4f;
+  margin: 0;
+}
+
+#main {
+  max-width: 80%;
+  margin: auto;
+}
+/* User Story #8: image is responsive relative to parent element */
+.page-header{
+  background-color: #4d4d4d;
+  color: #fff;
+  text-align: center;
+}
+
+#title {
+  padding-top: 2%;
+}
+
+#subtitle {
+  padding-bottom: 2%;
+}
+
+.tab {
+  padding: 0rem 0.5rem;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+/* User Story #9: The img element should be centered within its parent element */
+#headline {
+  text-align: center;
+  margin: auto;
+  line-height: 2;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: black;
+  margin: auto;
+  text-align: center;
+}
+
+.blockquote {
+  max-width: 80%;
+  margin: auto;
+}
+
+.blockquote:first-of-type::first-letter{
+color: #800000;
+font-size: 2rem;
+font-weight: bold;
+margin-right: .25rem;
+margin-bottom: 0rem;
+}
