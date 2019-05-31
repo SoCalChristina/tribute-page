@@ -20,13 +20,13 @@ body {
 #title {
   padding-top: 2%;
 }
-
-#subtitle {
-  padding-bottom: 2%;
+#subtitle-group {
+  max-width: 90%;
+  margin: auto;
 }
-
-.tab {
-  padding: 0rem 0.5rem;
+.subtitle {
+  font-weight: lighter;
+  font-size: 1.5rem;
 }
 
 #image {
@@ -59,4 +59,12 @@ font-size: 2rem;
 font-weight: bold;
 margin-right: .25rem;
 margin-bottom: 0rem;
+}
+
+@media (max-width: 460px) {
+  .subtitle {
+    font-size: 1rem;
+    padding: 0px;
+  }
+
 }
