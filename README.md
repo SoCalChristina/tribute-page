@@ -6,8 +6,9 @@ This is a one page info page about Zora Neal Hurston created for a Free Code Cam
 
 Responsive Web Design Projects - Build a Tribute Page for Free Code Camp.
 
-## Free Code Camp Project Objective: Build a CodePen.io app that is functionally similar to this: (https://codepen.io/freeCodeCamp/full/zNqgVx)
-Project must meet the following specifications 
+## Free Code Camp Project Objective: 
+Build a CodePen.io app that is functionally similar to this: (https://codepen.io/freeCodeCamp/full/zNqgVx)
+Project must meet the following specifications: 
 
 ### User Story #1:   
 
@@ -62,6 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * (https://www.zoranealehurston.com/)
+* Looking for Zora by Alice Walker (https://docs.google.com/viewer?a=v&pid=sites&srcid=c3R1ZGVudC5iY3Nkbnkub3JnfG1yLWFsYmFuby1ob21lcGFnZXxneDo2MmNhNTJhNGM4OWI0YTY3)
 * (https://www.newyorker.com/magazine/2018/05/14/zora-neale-hurstons-story-of-a-former-slave-finally-comes-to-print)
 * (https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 * (https://www.color-hex.com/color-palette/76982)
