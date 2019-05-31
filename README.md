@@ -64,6 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * (https://www.zoranealehurston.com/)
 * Looking for Zora by Alice Walker (https://docs.google.com/viewer?a=v&pid=sites&srcid=c3R1ZGVudC5iY3Nkbnkub3JnfG1yLWFsYmFuby1ob21lcGFnZXxneDo2MmNhNTJhNGM4OWI0YTY3)
+* Zora Neale Hurston: 7 Facts on Her 125th Birthday by Sara Kettler (https://www.biography.com/news/zora-neale-hurston-biography-facts-black-history)
 * (https://www.newyorker.com/magazine/2018/05/14/zora-neale-hurstons-story-of-a-former-slave-finally-comes-to-print)
 * (https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 * (https://www.color-hex.com/color-palette/76982)
